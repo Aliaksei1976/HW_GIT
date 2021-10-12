@@ -1,0 +1,33 @@
+check list structure
+Functional testing
+
+What are we checking?
+1. Installation / removal / rolling of versions
+2. Launching the application (displaying Splash Screen)
+3. The performance of the main functionality of the application
+3.1 Authorization (by phone number / via social networks / e-mail)
+3.2 Registration (by phone number / via social networks / e-mail)
+3.3 Onboarding new users
+3.4 Validation of required fields
+3.5 Navigation between application sections
+3.6 Editing data in the user profile
+3.7 Checking payment
+3.8 Testing Filters
+3.9 Bonuses
+4. Correct display of errors
+5. Working with files (sending / receiving / viewing)
+6. Testing timeouts
+7. Testing stubs (no internet connection / no, for example, goods, etc.)
+8. Testing pop-ups, alerts
+9. Testing WebView
+10. Scroll / swipe elements
+11. Testing PUSH notifications
+12. Minimizing / expanding the application
+13. Different types of connections (cellular / Wi-Fi)
+14. Screen orientation (landscape / portrait)
+15. Dark / light themes
+16. Advertising in the app
+17. Sharing content in the social. the network
+18. Application work in the background
+19. Page pagination
+20. Privacy policies and other links to documents
